@@ -77,7 +77,6 @@ def show_news(result):
     print(f"News 7 > {result['newsSeven']}")
     print(f"News 8 > {result['newsEight']}")
 
-
 if __name__ == '__main__':
     print('Deskription Package:', description)
     result = news_data()

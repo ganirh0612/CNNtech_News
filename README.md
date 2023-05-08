@@ -8,7 +8,7 @@ This package will use BeautifulSoup4 and Request, to then produce in the form of
 
 # How to Use This Package?
 ```
-import updateTech
+import updateTechnews
 
 if __name__ == '__main__':
     print('Deskription Package:', description)
