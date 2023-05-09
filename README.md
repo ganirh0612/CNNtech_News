@@ -12,8 +12,8 @@ import updateTechnews
 
 if __name__ == '__main__':
     print('Deskription Package:', description)
-    result = news_data()
-    show_news(result)
+    result = updateTechnews.news_data()
+    updateTechnews.show_news(result)
 ```
 
 # Author
