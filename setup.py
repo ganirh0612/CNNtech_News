@@ -7,7 +7,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="CNNtech_News",
-    version="0.1.2",
+    version="0.1.3",
     author="Hasan Gani Rachmatullah",
     author_email="ganirh0612@gmail.com",
     description="This package will provide you the most update of CNN Tech News",
