@@ -60,7 +60,6 @@ def news_data():
     else:
         return None
 
-
 def show_news(result):
     if result is None:
         print("Update News Not Found")
